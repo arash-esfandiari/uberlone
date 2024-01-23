@@ -27,5 +27,5 @@ Here's a list of what this template provides.
 
 ## Images
 
-<img src="images/screenshot1.png" alt="Sample Image 1" width="250"/>
 <img src="images/screenshot2.png" alt="Sample Image 2" width="250"/>
+<img src="images/screenshot1.png" alt="Sample Image 1" width="250"/>
