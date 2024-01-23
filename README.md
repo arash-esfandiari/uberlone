@@ -27,7 +27,5 @@ Here's a list of what this template provides.
 
 ## Images
 
-You could just use some HTML in your Markdown:
-
-<img src="images/screenshot1.png" alt="Sample Image 1" width="200"/>
-<img src="images/screenshot2.png" alt="Sample Image 2" width="200"/>
+<img src="images/screenshot1.png" alt="Sample Image 1" width="250"/>
+<img src="images/screenshot2.png" alt="Sample Image 2" width="250"/>
