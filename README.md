@@ -28,3 +28,5 @@ Here's a list of what this template provides.
 ## Images
 
 ![alt text](https://github.com/arash-esfandiari/uberlone/blob/c0b5c8b53429af235b8d94d8d5f81aa704190851/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-01-22%20at%2020.09.24.png)
+
+![alt text](https://github.com/arash-esfandiari/uberlone/blob/cd17f38133166c8904afdfb492d6a6e2984a510f/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-01-22%20at%2020.45.09.png)
